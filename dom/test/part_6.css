@@ -1,0 +1,42 @@
+.developmentApproach{
+    display: flex;
+    flex-direction: column;
+}
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.developmentApproach .bg{
+    background-image: linear-gradient(45deg,rgb(250, 4, 102),rgb(219, 84, 143));
+    width: 60px;
+    height: 35px;
+    border-radius: 8px;
+}
+
+
+.developmentApproach .bg2{
+    background-image: linear-gradient(45deg,rgb(4, 250, 37),rgb(4, 86, 15));
+    width: 60px;
+    height: 40px;
+    border-radius: 8px;
+}
+.developmentApproach .bg3{
+    background-image: linear-gradient(45deg,rgb(180, 250, 4),rgb(215, 248, 5));
+    width: 60px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.developmentApproach .bg4{
+    background-image: linear-gradient(45deg,rgb(250, 4, 197),rgb(248, 5, 102));
+    width: 60px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.developmentApproach .shadow-sm{
+    max-width: 600px;
+}

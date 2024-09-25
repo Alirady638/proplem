@@ -1,0 +1,29 @@
+.b1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    margin: auto;
+    padding: auto;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+.b2{
+    background-color:blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.b3{
+    background-color:green;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
